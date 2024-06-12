@@ -1,0 +1,3 @@
+[submodule "Flurry-WebGL"]
+	path = Flurry-WebGL
+	url = https://github.com/RoyCurtis/Flurry-WebGL
